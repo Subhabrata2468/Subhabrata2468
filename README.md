@@ -67,8 +67,6 @@
     <img width="20" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" alt="jest logo" />
     <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" alt="jest logo" />
-    <img width="20" />
   </div>
   <!--- programming tools stop --->
   
