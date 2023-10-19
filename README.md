@@ -86,13 +86,8 @@
 
 <h2 align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhabrata2468&theme=onedark&show_icons=true&locale=en&layout=compact" alt="subhabrata2468" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhabrata2468&theme=react&cache_seconds=30&hide_border=truek" alt="subhabrata2468" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhabrata2468&theme=react&cache_seconds=30&hide_border=true" alt="subhabrata2468" /></p>
-
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhabrata2468&theme=dracula"/></p>
-
 <h2 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?username=riturajgupta21&theme=react" alt="Jokes Card" />
