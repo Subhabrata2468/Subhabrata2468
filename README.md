@@ -1,6 +1,6 @@
 <!--- image of guy with laptop start --->
 <div align="center">
-    <img src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" alt="Your Image Alt Text"  autoplay>
+    <img src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" alt="gif" autoplay>
 </div>
 
   <!--- image of guy with laptop stop --->
