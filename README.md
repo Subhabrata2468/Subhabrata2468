@@ -1,9 +1,6 @@
 <!--- image of guy with laptop start --->
 <div align="center">
-    <video width="100%" height="auto" autoplay loop muted playsinline>
-        <source src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" type="video/gif">
-        Your browser does not support the video tag.
-    </video>
+    <img src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" alt="gif">
 </div>
 
 
