@@ -1,7 +1,7 @@
 <!--- image of guy with laptop start --->
 <div align="center">
     
- ![](https://github.com/Subhabrata2468/Subhabrata2468/blob/master/J4o.gif)
+ ![](https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif)
     
   </div>
   <!--- image of guy with laptop stop --->
