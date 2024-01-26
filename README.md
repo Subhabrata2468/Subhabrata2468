@@ -1,9 +1,8 @@
 <!--- image of guy with laptop start --->
 <div align="center">
-    
- ![](https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif)
-    
-  </div>
+    <img src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" alt="Your Image Alt Text">
+</div>
+
   <!--- image of guy with laptop stop --->
 
 <!--- links for youtube and linkdin start --->
