@@ -1,6 +1,6 @@
 <!--- image of guy with laptop start --->
 <div align="center">
-    
+    ![](https://github.com/Subhabrata2468/Subhabrata2468/blob/master/J4o.gif)
     
   </div>
   <!--- image of guy with laptop stop --->
