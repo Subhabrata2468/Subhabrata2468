@@ -1,6 +1,6 @@
 <!--- image of guy with laptop start --->
 <div align="center">
-    <img src="https://github.com/Subhabrata2468/project1/blob/project1/DEVOPS%20PROJECT1%20DIAGRAM%20(1).gif" alt="gif">
+    <img src="https://github.com/Subhabrata2468/Subhabrata2468/blob/master/gif.gif" alt="gif">
 </div>
 
 
