@@ -45,7 +45,7 @@
   <div align= "left">
     <h3 align = "left"> DEVOPS TOOLS  </h3>
     <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="jest logo" />
+    <img src="https://github.com/Subhabrata2468/profile_images/blob/master/Kubernetes.png" height="50" alt="jest logo" />
     <img width="20" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="jest logo" />
     <img width="20" />
